@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thatiany08
-- 👀 I'm interested in changing careers and joining the mobile development.  
-- 🌱 I'm currently learning SWIFT, IOS, SDKs and Frameworks.
+- 👀 I'm interested in changing careers and joining the front end.  
+- 🌱 I'm currently learning HTML, CSS e Javascript.
 
 <!---
 Thatiany08/Thatiany08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
