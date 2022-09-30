@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thatiany08
-- 👀 I'm interested in changing careers and joining the front end.  
+- 👀 I'm interested in changing careers and joining the front end programmer.  
 - 🌱 I'm currently learning HTML, CSS e Javascript.
 
 <!---
